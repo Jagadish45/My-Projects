@@ -15,7 +15,4 @@ This project involved developing a system to analyze YouTube video titles and ra
   * **BERT Classification Model**
 * BERT classifier achieved the best accuracy of 76% in predicting title strength (see plot below)
   
-
-
-
-
+![](Images/BERT.jpeg)
